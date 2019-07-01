@@ -10,5 +10,7 @@ Libraries:
 - Cupboard (ORM)
 - ButterKnife (View bindings)
 
+Things to mention:
 * One activity application
 * BehaviourRelay is used to pass the states
+* 3 seconds delay for each joke fetching (to see progress bar)
